@@ -1,1 +1,1 @@
-# React Startter Kit
+# React Starter Kit
